@@ -1,0 +1,28 @@
+@import './normalize.css';
+@import './main.css';
+@import './skeleton.css';
+
+.u-text-center {
+  text-align: center !important;
+}
+
+.mt-1 {
+    margin-top: 1rem;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+.mt-3 {
+    margin-top: 3rem;
+}
+.mt-4 {
+    margin-top: 4rem;
+}
+
+.remove-m {
+    margin: 0 !important;
+}
+
+a {
+    color: blueviolet;
+}
